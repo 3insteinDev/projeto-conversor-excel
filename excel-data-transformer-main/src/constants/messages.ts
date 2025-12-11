@@ -1,0 +1,26 @@
+export const messages = {
+  INVALID_EMAIL_OR_PASSWORD: 'Email ou senha inválidos',
+  ENTER_A_EMAIL: 'Insira um email',
+  INVALID_EMAIL: 'Email inválido',
+  EMAIL_MAX_LENGTH: 'Email deve ter no máximo 50 caracteres',
+  PASSWORD_IS_REQUIRED: 'Senha é obrigatória',
+  PASSWORDS_DO_NOT_MATCH: 'As senhas não coincidem',
+  PASSWORD_MIN_LENGTH: 'Senha deve ter no mínimo 6 caracteres',
+  PASSWORD_MAX_LENGTH: 'Senha deve ter no máximo 20 caracteres',
+  INVALID_PASSWORD: 'Senha inválida',
+  FAILED_TO_LOGIN: 'Falha ao fazer login',
+  EMAIL_ALREADY_EXISTS: 'Email já existe',
+  USER_NOT_FOUND: 'Usuário não encontrado',
+  INVALID_DATE: 'Data inválida',
+
+  NAME_IS_REQUIRED: 'Nome é obrigatório',
+  NAME_MAX_LENGTH: 'Nome deve ter no máximo 50 caracteres',
+
+  BAD_REQUEST: 'Requisição inválida',
+  SESSION_EXPIRED: 'Sessão expirada',
+  FORBIDDEN: 'Acesso negado',
+  NOT_FOUND: 'Recurso não encontrado',
+  SERVER_ERROR: 'Erro no servidor',
+  ERROR_ON_NETWORK_REQUEST_FAILED: 'Erro na rede',
+  INVALID_JSON_RESPONSE: 'Resposta inválida',
+}
